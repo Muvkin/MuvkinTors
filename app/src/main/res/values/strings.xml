@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Muvkin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">Hello There!</string>
+    <string name="phone">Enter your Phone Number</string>
+    <string name="pass">Enter your Password</string>
+    <string name="reg">Register</string>
+    <string name="log">Login</string>
+    <string name="reset">Reset your Password</string>
+    <string name="logo">Where Fun Travel Lives</string>
+    <string name="name">Enter your Username</string>
+    <string name="email">Enter your Email Address</string>
+    <string name="password">Confirm your password</string>
+    <string name="home">Home</string>
+    <string name="fun">Fun</string>
+    <string name="settings">Settings</string>
+    <string name="type">Choose Train type</string>
+    <string name="slogan">Where Fun Travel Lives</string>
+    <string name="from">Select your Origin</string>
+    <string name="to">Select your Destination</string>
+    <string name="book">Book</string>
+    <string name="date">Select your Travel Date</string>
+    <string name="description">Taken with hot Meat stew and a cold beverage</string>
+    <string name="search">Your Search:</string>
+    <string name="from1">FROM:</string>
+    <string name="from2">Nairobi terminus</string>
+    <string name="to1">TO:</string>
+    <string name="to2">Mombasa Terminus</string>
+    <string name="date1">DEPARTURE DATE:</string>
+    <string name="date2">Wed, Oct 20 2021</string>
+    <string name="modify">Modify Search</string>
+    <string name="train1">Train E2 - Nairobi Terminus to Mombasa Terminus</string>
+    <string name="seat1">First Class Seats 116</string>
+    <string name="adult">Adults: KSH 3000</string>
+    <string name="child1">Children( BTW 3 – 11YRS): KSH 1500</string>
+    <string name="child2">Children(Below 3YRS): FREE</string>
+    <string name="seat2">ECONOMY - 765 SEATS</string>
+    <string name="journey">Nairobi Terminus to Mombasa Terminus</string>
+    <string name="train_number">Train: N2</string>
+    <string name="adults">Adults</string>
+    <string name="tChild1">Children(12 – 17YRS)</string>
+    <string name="tChild2">Children(3 – 11YRS)</string>
+    <string name="coach">Coach Type</string>
+    <string name="book1">Book a Train</string>
+    <string name="chapati">Chapati</string>
+    <string name="beverages">Beverages</string>
+    <string name="order">Order</string>
+    <string name="meals">Meals</string>
+    <string name="stew">Stew</string>
+    <string name="log_out">Log out</string>
+    <string name="snacks">Snacks</string>
+
+</resources>

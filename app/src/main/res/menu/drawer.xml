@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:title="@string/order">
+            <menu>
+                <item android:title="@string/beverages"
+                    android:icon="@drawable/ic_beverage"
+                    android:id="@+id/beverageFragment"/>
+                <item android:title="@string/snacks"
+                    android:icon="@drawable/snacks"
+                    android:id="@+id/snackFragment"/>
+                <item android:title="@string/meals"
+                    android:icon="@drawable/meals"
+                    android:id="@+id/mealFragment"/>
+                <item android:title="@string/stew"
+                    android:icon="@drawable/stew"
+                    android:id="@+id/stewFragment"/>
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="@string/log_out"
+        android:icon="@drawable/log_out"/>
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer"
+    app:startDestination="@id/beverageFragment">
+
+    <fragment
+        android:id="@+id/beverageFragment"
+        android:name="com.example.muvkin.BeverageFragment"
+        android:label="fragment_beverage"
+        tools:layout="@layout/fragment_beverage" />
+    <fragment
+        android:id="@+id/stewFragment"
+        android:name="com.example.muvkin.StewFragment"
+        android:label="fragment_stew"
+        tools:layout="@layout/fragment_stew" />
+    <fragment
+        android:id="@+id/mealFragment"
+        android:name="com.example.muvkin.MealFragment"
+        android:label="fragment_meal"
+        tools:layout="@layout/fragment_meal" />
+    <fragment
+        android:id="@+id/snackFragment"
+        android:name="com.example.muvkin.SnackFragment"
+        android:label="fragment_snack"
+        tools:layout="@layout/fragment_snack" />
+</navigation>
